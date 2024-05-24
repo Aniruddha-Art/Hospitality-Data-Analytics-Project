@@ -4,6 +4,9 @@ providing insights into customer behavior, booking trends, and overall business 
 
 Features
 Data Cleaning and Preprocessing: Functions for cleaning and preparing raw hospitality data for analysis.
+
 Exploratory Data Analysis (EDA): Scripts to explore and visualize key metrics and trends in the data.
+
 Booking Analysis: Tools to analyze booking patterns, cancellation rates, and revenue generation.
+
 Visualization: Various charts and graphs to present the analysis results in a clear and concise manner.
